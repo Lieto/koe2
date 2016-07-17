@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Interval1D.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StdDraw.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StdDraw.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cmake_modules/FindSFML.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Interval2D.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_classes.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Interval2D.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Interval1D.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://D:/x86_64-4.9.2-release-posix-seh-rt_v4-rev2/mingw64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" />
+          <root url="file://D:/x86_64-4.9.2-release-posix-seh-rt_v4-rev2/mingw64/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed" />
+          <root url="file://D:/x86_64-4.9.2-release-posix-seh-rt_v4-rev2/mingw64/x86_64-w64-mingw32/include" />
+          <root url="file://D:/SFML-2.3.2-windows-gcc-4.9.2-mingw-64-bit/SFML-2.3.2/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://D:/x86_64-4.9.2-release-posix-seh-rt_v4-rev2/mingw64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" />
+          <root url="file://D:/x86_64-4.9.2-release-posix-seh-rt_v4-rev2/mingw64/lib/gcc/x86_64-w64-mingw32/4.9.2/include-fixed" />
+          <root url="file://D:/x86_64-4.9.2-release-posix-seh-rt_v4-rev2/mingw64/x86_64-w64-mingw32/include" />
+          <root url="file://D:/SFML-2.3.2-windows-gcc-4.9.2-mingw-64-bit/SFML-2.3.2/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
